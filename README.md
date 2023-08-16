@@ -1,2 +1,2 @@
 # eshoop
-test reoisitory
+test repository
